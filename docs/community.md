@@ -4,4 +4,4 @@
 - [Telegram](https://t.me/JBAMoonFinance)
 
 ## 网站
-- [https://jbamoon.com]
+- [https://jbamoon.com](https://jbamoon.com)
