@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+# 京巴登月 JBAMOON 项目
 
-You can use the [editor on GitHub](https://github.com/jbamoon/jbamoon.github.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## 缘起
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+看烦了DOGE SHIB，
 
-### Markdown
+JBAMOON京巴出世，
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+中国神犬，宫廷贵族，值得在加密世界留有姓名
 
-```markdown
-Syntax highlighted code block
+## 特点
 
-# Header 1
-## Header 2
-### Header 3
+持币即挖矿，有人卖出就获取高额矿金
 
-- Bulleted
-- List
+销毁即空投，定期销毁，任何钱包持币者无论资金大小都可以领取空投
 
-1. Numbered
-2. List
+砸盘有保护，庄家砸盘，持币者获取空投奖励，作为保护
 
-**Bold** and _Italic_ and `Code` text
+持有即胜利，采用SAFEMOON策略，项目坚持最久的持有者赢家通吃
 
-[Link](url) and ![Image](src)
-```
+10%流动性10%返还，比SAFEMOON更严格的HODL精神
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 概念
 
-### Jekyll Themes
+一币独占三个最火概念
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbamoon/jbamoon.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+SAFEMOON三月价格翻万倍，JBA有相同激励策略，
 
-### Support or Contact
+DOGE/SHIB狗群大队，中国神犬也要冲进华尔街
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+LOWB低价屌丝币，JBA真屌丝也低价
+ 
+## 路线图
+
+立刻马上：5月8日晚马斯克上美国知名综艺周六夜现场，万狗齐发
+
+阶段一：社区持币
+
+阶段二：华人广泛持有
+
+阶段三：项目方激励京巴犬MEME模因表情包/视频
+
+阶段四：让马斯克见识中国JBAMOON才是真的狗
+
+阶段五：中国神权概念全球广泛传播
+
+阶段六：马斯克带货
+
+阶段七：先于DOGE/SHIB登月
+
+阶段八：中国神犬概念NFT激励
+
+## 购买方式 
+
+[pancakeswap地址](https://exchange.pancakeswap.finance/#/swap?inputCurrency=bnb&outputCurrency=0xc4c52757b788d417dca4d338358b080fa5ddb81d)
+
+或pancake搜索合约`0xc4c52757b788d417dca4d338358b080fa5ddb81d`
+
+_pancake价格冲击成本参数（Slippage tolerance）要调到30%以上，这是SafeMoon策略自身的问题。_
