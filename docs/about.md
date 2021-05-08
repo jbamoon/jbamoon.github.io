@@ -1,6 +1,4 @@
-title: "ABOUT"
-
-# 京巴登月 JBAMOON 项目
+# 京巴登月 JBAMOON 项目介绍
 
 ## 缘起
 

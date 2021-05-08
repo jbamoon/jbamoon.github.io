@@ -1,6 +1,6 @@
-title: "京巴登月 JBAMOON 项目"
+# 京巴登月 JBAMOON 项目
 
-![Random Logo](/images/jb.png)
+![Random Logo](/images/jb.jpg)
 
-- [About](index.html)
+- [About](about.html)
 - [Tutorials](tutorials.html)
